@@ -1,0 +1,14 @@
+README.md
+  h_a1af05e739b431 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "4955582789e36d7511ae267e3baf60875e8ac684",
+  "prompts": {},
+  "humans": {
+    "h_a1af05e739b431": {
+      "author": "prince.bhatia <prince.bhatia@external.telekom.de>"
+    }
+  }
+}
