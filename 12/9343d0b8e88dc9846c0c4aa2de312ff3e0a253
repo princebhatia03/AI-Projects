@@ -1,0 +1,23 @@
+geo-analysis-backend/README.md
+  s_7cc9365e1bbbd8::t_729390b9972bb1 31
+  s_7cc9365e1bbbd8::t_0407f738e5f80d 28-30
+  s_7cc9365e1bbbd8::t_1c0873030ba723 32-34
+.gitattributes
+  s_7cc9365e1bbbd8::t_ea4f1b9db67f22 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "129343d0b8e88dc9846c0c4aa2de312ff3e0a253",
+  "prompts": {},
+  "sessions": {
+    "s_7cc9365e1bbbd8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ecc9f14cdffejbfXl87Ibduyry",
+        "model": "gpt-5.5"
+      },
+      "human_author": "prince.bhatia <prince.bhatia@external.telekom.de>"
+    }
+  }
+}
