@@ -1,0 +1,21 @@
+README.md
+  s_7cc9365e1bbbd8::t_018d88956000c8 1-3
+.gitignore
+  s_7cc9365e1bbbd8::t_018d88956000c8 33-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "184fd6818746670801d7ca2dd231a007db936c03",
+  "prompts": {},
+  "sessions": {
+    "s_7cc9365e1bbbd8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ecc9f14cdffejbfXl87Ibduyry",
+        "model": "gpt-5.5"
+      },
+      "human_author": "prince.bhatia <prince.bhatia@external.telekom.de>"
+    }
+  }
+}
