@@ -1,0 +1,45 @@
+geo-analysis-backend/scripts/build_architecture_pptx.py
+  s_7cc9365e1bbbd8::t_eb17df8ab1cc7d 3-635,638-641
+  s_7cc9365e1bbbd8::t_70a4716f1d361e 637
+  s_7cc9365e1bbbd8::t_4fb569cd7fe6d0 1-2
+  s_7cc9365e1bbbd8::t_3bf9ba0cf33850 636
+geo-analysis-backend/README.md
+  s_7cc9365e1bbbd8::t_729390b9972bb1 31
+  s_7cc9365e1bbbd8::t_f0d65e88fe1902 38-40
+  s_7cc9365e1bbbd8::t_bbda8599272bba 13,24-27
+  s_7cc9365e1bbbd8::t_0407f738e5f80d 23,28-30
+  s_7cc9365e1bbbd8::t_e5e63c63909509 35-37
+  s_7cc9365e1bbbd8::t_beff9036d61321 10-12
+  s_7cc9365e1bbbd8::t_8c5fbf0eb4d8f8 20-22
+  s_7cc9365e1bbbd8::t_1c0873030ba723 32-34
+  s_7cc9365e1bbbd8::t_008a70a74adf8d 14-19
+  s_7cc9365e1bbbd8::t_c52fe08fc16761 7-9
+  s_7cc9365e1bbbd8::t_084270dd027d96 41-43
+.gitattributes
+  s_7cc9365e1bbbd8::t_ea4f1b9db67f22 1-3
+.gitignore
+  s_7cc9365e1bbbd8::t_20da350a91881b 34-36
+  s_7cc9365e1bbbd8::t_bf75f32ac41d1b 4-33
+  s_7cc9365e1bbbd8::t_ddbe78dd7215ef 1-3
+  s_7cc9365e1bbbd8::t_37bba384e7ebb8 37
+geo-analysis-backend/churn_pincode_pipeline.plan.md
+  s_7cc9365e1bbbd8::t_eb17df8ab1cc7d 396
+  s_7cc9365e1bbbd8::t_aea57a3c89456b 393-395
+  s_7cc9365e1bbbd8::t_34eb212eca1cc7 397-399
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8627d8f5b12eec3b7ef6264a49b8d27f19860461",
+  "prompts": {},
+  "sessions": {
+    "s_7cc9365e1bbbd8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ecc9f14cdffejbfXl87Ibduyry",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
