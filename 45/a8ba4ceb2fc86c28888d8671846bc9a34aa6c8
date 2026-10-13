@@ -1,0 +1,178 @@
+geo-analysis-backend/uv.lock
+  h_a1af05e739b431 1-2629
+geo-analysis-ui/components/AppShell.tsx
+  h_a1af05e739b431 1-114
+geo-analysis-ui/components/ZoomPanViewport.tsx
+  h_a1af05e739b431 1-240
+geo-analysis-backend/app/analysis/pattern_catalog.py
+  h_a1af05e739b431 1-330
+geo-analysis-ui/components/ui/badge.tsx
+  h_a1af05e739b431 1-31
+geo-analysis-ui/app/globals.css
+  h_a1af05e739b431 1-1537
+geo-analysis-ui/components/ui/input.tsx
+  h_a1af05e739b431 1-21
+geo-analysis-ui/components/AreaStudio.tsx
+  h_a1af05e739b431 1-1574
+geo-analysis-backend/tests/analysis/test_customer_services.py
+  h_a1af05e739b431 1-61
+geo-analysis-ui/components/RiskHoneycomb.tsx
+  h_a1af05e739b431 1-570
+geo-analysis-backend/app/storage/campaigns_db.py
+  h_a1af05e739b431 1-189
+geo-analysis-backend/app/storage/embeddings.py
+  h_a1af05e739b431 1-19
+geo-analysis-ui/postcss.config.mjs
+  h_a1af05e739b431 1-8
+geo-analysis-backend/scripts/build_architecture_pptx.py
+  s_7cc9365e1bbbd8::t_eb17df8ab1cc7d 3-5,635
+  s_7cc9365e1bbbd8::t_3bf9ba0cf33850 636
+  s_7cc9365e1bbbd8::t_9e7b34ee409ee2 6-634,638-641
+  s_7cc9365e1bbbd8::t_4fb569cd7fe6d0 1-2
+  s_7cc9365e1bbbd8::t_70a4716f1d361e 637
+geo-analysis-backend/.gitignore
+  h_a1af05e739b431 1-6
+geo-analysis-ui/app/page.tsx
+  h_a1af05e739b431 1-7
+geo-analysis-backend/app/analysis/behaviour_actions.py
+  h_a1af05e739b431 1-575
+geo-analysis-backend/app/analysis/customer_campaigns.py
+  h_a1af05e739b431 1-602
+geo-analysis-backend/app/analysis/loader.py
+  h_a1af05e739b431 1-235
+geo-analysis-backend/tests/analysis/test_pincode_aggregate.py
+  h_a1af05e739b431 1-132
+geo-analysis-ui/package.json
+  h_a1af05e739b431 1-31
+geo-analysis-backend/app/analysis/customer_services.py
+  h_a1af05e739b431 1-137
+geo-analysis-backend/tests/analysis/test_campaign_trigger_offer.py
+  h_a1af05e739b431 1-251
+geo-analysis-backend/app/config.py
+  s_7cc9365e1bbbd8::t_9e7b34ee409ee2 1-131
+geo-analysis-backend/.python-version
+  h_a1af05e739b431 1
+geo-analysis-ui/app/layout.tsx
+  h_a1af05e739b431 1-28
+geo-analysis-backend/tests/analysis/test_business_impact.py
+  h_a1af05e739b431 1-56
+geo-analysis-ui/components/SearchableSelect.tsx
+  h_a1af05e739b431 1-249
+geo-analysis-backend/docker-compose.yml
+  s_7cc9365e1bbbd8::t_9e7b34ee409ee2 1-10
+geo-analysis-backend/app/pipeline/churn_pipeline.py
+  h_a1af05e739b431 1-192
+geo-analysis-backend/app/analysis/business_impact.py
+  h_a1af05e739b431 1-231
+geo-analysis-backend/tests/analysis/test_behaviour_actions.py
+  h_a1af05e739b431 1-127
+geo-analysis-backend/pyproject.toml
+  h_a1af05e739b431 1-25
+geo-analysis-backend/app/api/routes.py
+  h_a1af05e739b431 1-296
+geo-analysis-ui/lib/types.ts
+  h_a1af05e739b431 1-366
+geo-analysis-backend/app/analysis/local_dataset.py
+  h_a1af05e739b431 1-44
+geo-analysis-ui/components/InfoTip.tsx
+  h_a1af05e739b431 1-20
+geo-analysis-ui/components/ui/tooltip.tsx
+  h_a1af05e739b431 1-29
+geo-analysis-backend/app/analysis/offers.py
+  h_a1af05e739b431 1-114
+geo-analysis-ui/components/ui/card.tsx
+  h_a1af05e739b431 1-47
+geo-analysis-ui/next-env.d.ts
+  h_a1af05e739b431 1-6
+geo-analysis-backend/app/data/offers.csv
+  h_a1af05e739b431 1-15
+geo-analysis-backend/app/analysis/domain_metrics.py
+  h_a1af05e739b431 1-289
+geo-analysis-backend/app/agents/churn_tools.py
+  h_a1af05e739b431 1-326
+geo-analysis-backend/app/storage/pincode_graph.py
+  h_a1af05e739b431 1-921
+geo-analysis-backend/README.md
+  s_7cc9365e1bbbd8::t_cf20c00b2a605b 4-6
+  s_7cc9365e1bbbd8::t_c52fe08fc16761 7-9
+  s_7cc9365e1bbbd8::t_008a70a74adf8d 14-19
+  s_7cc9365e1bbbd8::t_f0d65e88fe1902 38-40
+  s_7cc9365e1bbbd8::t_729390b9972bb1 31
+  s_7cc9365e1bbbd8::t_084270dd027d96 41-43
+  s_7cc9365e1bbbd8::t_3227611f0bdafd 44-45
+  s_7cc9365e1bbbd8::t_8c5fbf0eb4d8f8 20-22
+  s_7cc9365e1bbbd8::t_bbda8599272bba 13,24-27
+  h_a1af05e739b431 1-3
+  s_7cc9365e1bbbd8::t_0407f738e5f80d 23,28-30
+  s_7cc9365e1bbbd8::t_beff9036d61321 10-12
+  s_7cc9365e1bbbd8::t_1c0873030ba723 32-34
+  s_7cc9365e1bbbd8::t_e5e63c63909509 35-37
+geo-analysis-backend/.env.example
+  h_a1af05e739b431 1-31
+geo-analysis-backend/churn_pincode_pipeline.plan.md
+  h_a1af05e739b431 1-389,403-448
+  s_7cc9365e1bbbd8::t_55a6a1b73c9e89 390-392
+  s_7cc9365e1bbbd8::t_34eb212eca1cc7 397-399
+  s_7cc9365e1bbbd8::t_5b0623bc20fc69 400-402
+  s_7cc9365e1bbbd8::t_eb17df8ab1cc7d 396
+  s_7cc9365e1bbbd8::t_aea57a3c89456b 393-395
+geo-analysis-ui/components/ui/button.tsx
+  h_a1af05e739b431 1-45
+geo-analysis-backend/app/analysis/pincode_aggregate.py
+  h_a1af05e739b431 1-308
+geo-analysis-backend/tests/analysis/test_pattern_catalog.py
+  h_a1af05e739b431 1-111
+geo-analysis-ui/tsconfig.json
+  h_a1af05e739b431 1-21
+geo-analysis-ui/next.config.mjs
+  h_a1af05e739b431 1-3
+geo-analysis-ui/.gitignore
+  h_a1af05e739b431 1-3
+geo-analysis-backend/app/analysis/diagnosis.py
+  h_a1af05e739b431 1-255
+geo-analysis-backend/app/pipeline/state.py
+  h_a1af05e739b431 1-685
+geo-analysis-backend/app/agents/runtime.py
+  h_a1af05e739b431 1-304
+geo-analysis-ui/README.md
+  h_a1af05e739b431 1-48
+geo-analysis-backend/app/main.py
+  h_a1af05e739b431 1-69
+geo-analysis-backend/tests/analysis/test_customer_campaigns.py
+  h_a1af05e739b431 1-314
+.gitignore
+  s_7cc9365e1bbbd8::t_91e48bdad3dec3 34
+  s_7cc9365e1bbbd8::t_37bba384e7ebb8 38
+  s_7cc9365e1bbbd8::t_ddbe78dd7215ef 1-3
+  s_7cc9365e1bbbd8::t_bf75f32ac41d1b 4-33
+  s_7cc9365e1bbbd8::t_20da350a91881b 35-37
+geo-analysis-ui/lib/utils.ts
+  h_a1af05e739b431 1-6
+geo-analysis-backend/app/analysis/customer_risk.py
+  h_a1af05e739b431 1-255
+.gitattributes
+  s_7cc9365e1bbbd8::t_ea4f1b9db67f22 1-3
+geo-analysis-ui/package-lock.json
+  h_a1af05e739b431 1-2369
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "45a8ba4ceb2fc86c28888d8671846bc9a34aa6c8",
+  "prompts": {},
+  "humans": {
+    "h_a1af05e739b431": {
+      "author": "prince.bhatia <prince.bhatia@external.telekom.de>"
+    }
+  },
+  "sessions": {
+    "s_7cc9365e1bbbd8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ecc9f14cdffejbfXl87Ibduyry",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
