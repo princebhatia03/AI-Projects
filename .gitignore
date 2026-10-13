@@ -1,0 +1,38 @@
+.DS_Store
+.idea/
+.vscode/
+~$*
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local/generated app state
+geo-analysis-backend/DataSet/
+geo-analysis-backend/Geo-Analysis-Architecture.pptx
+artifacts/
+*.db
+playwright-report/
+test-results/

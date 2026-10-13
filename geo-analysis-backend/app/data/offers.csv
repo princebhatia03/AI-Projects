@@ -1,0 +1,15 @@
+offer_id,name,description,addresses_patterns,channel,priority
+OFF_UNLIM,Unlimited data upgrade,Move heavy users off metered plans onto unlimited data before overages drive risk.,heavy_usage_no_unlimited|unlimited_data|extra_data_charges|total_extra_data_charges|avg_monthly_gb,digital,1
+OFF_FIBER,Faster fiber upgrade,Upgrade speed where access tech lags or DSL/cable share is high vs fiber.,internet_type|competitor_speed|fiber,field,2
+OFF_HOME,Home internet for phone-only,Add home broadband where customers have phone but no internet.,phone_only_no_internet|internet_service,digital,3
+OFF_FAMILY,Extra line family plan,Add lines for households with dependents.,dependents|multiple_lines|number_of_dependents,retail,4
+OFF_PROTECT,Security and support add-on,Attach online security where internet users lack protection.,online_security|no_security_addon|premium_tech_support,digital,5
+OFF_SUPPORT,Premium tech support bundle,Attach premium support where satisfaction is low or support adoption is weak.,no_tech_support|premium_tech_support|low_satisfaction|satisfaction_mean,care,3
+OFF_PREVENT,Preventive loyalty credit,Proactive credit for high predictive risk scores among still-active users.,high_churn_score|high_risk|risk_rate|risk_score_mean|churn_score,care,1
+OFF_PRICE,Price relief plan,Lower effective monthly cost where charges are high and satisfaction is low.,price_sensitivity|monthly_charge|low_satisfaction,care,2
+OFF_CONTRACT,Annual contract perk,Incentivize longer contracts where month-to-month share elevates exit risk.,contract_month_to_month|contract,retail,2
+OFF_GB_BOOST,Data booster pack,Temporary GB boost for metered heavy users as a bridge to unlimited.,heavy_usage_no_unlimited|avg_monthly_gb|extra_data_charges,digital,4
+OFF_WIFI,Whole-home Wi-Fi mesh,Improve in-home experience where satisfaction is weak among internet users.,low_satisfaction|satisfaction_mean|internet_service,field,4
+OFF_SENIOR,Easy-support senior plan,Simplified plan plus concierge support for older or low-tenure high-risk segments.,high_churn_score|tenure_months|low_satisfaction,care,5
+OFF_BUNDLE,TV + mobile bundle save,Cross-sell bundle discount to raise switching costs in high-risk zips.,high_churn_score|risk_rate|contract_month_to_month,digital,3
+OFF_DEVICE,Device upgrade loyalty,Handset upgrade credit to retain high-risk multi-line or dependent households.,dependents|multiple_lines|high_churn_score,retail,4

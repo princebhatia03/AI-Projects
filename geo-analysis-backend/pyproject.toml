@@ -1,0 +1,25 @@
+[project]
+name = "geo-analysis-backend"
+version = "0.1.0"
+description = "Area diagnosis backend"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi",
+    "google-adk>=2.0,<3",
+    "litellm>=1.84",
+    "neo4j",
+    "neo4j-graphrag",
+    "pandas",
+    "pydantic",
+    "python-dotenv",
+    "uvicorn[standard]",
+]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
